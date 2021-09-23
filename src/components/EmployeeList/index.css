@@ -15,7 +15,7 @@
     font-size: 12px;
     padding: 6px 12px 6px 12px;
     color: #323f4b;
-    border: 1px solid lightgrey;
+    border: 1px solid black;
     border-radius: 5px;
     margin-bottom: 10px;
     outline: none;
@@ -42,7 +42,7 @@
     align-items: center;
     width: 100%;
     border: none;
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid lightgray;
   }
   
   .checkbox {
@@ -91,8 +91,8 @@
   .delete-selected {
     font-size: 14px;
     padding: 5px 12px 5px 12px;
-    border: 2px solid #0b69ff;
-    background-color: #0b69ff;
+    border: 2px solid red;
+    background-color: red;
     color: #ffffff;
     border-radius: 5px;
     height: 35px;
@@ -102,9 +102,9 @@
   .delete-all {
     font-size: 14px;
     padding: 5px 12px 5px 12px;
-    border: 2px solid #0b69ff;
-    background-color: #ffffff;
-    color: #0b69ff;
+    border: 2px solid red;
+    background-color: red;
+    color: #ffffff;
     border-radius: 5px;
     height: 35px;
     cursor: pointer;
